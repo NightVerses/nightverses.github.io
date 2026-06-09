@@ -70,6 +70,11 @@ redirect_from:
 - *Remote Sensing (RS)*
 - *IEEE Geoscience and Remote Sensing Letters (GRSL)*
 
+# 🎖 Patents
+
+- Enping Yan, **Yubin Tang**, Dengkui Mo, et al.  
+  **“基于高空间分辨率遥感数据的 DEM 智能超分方法”** (*Deep Learning-Based DEM Super-Resolution Method Using High-Spatial-Resolution Remote Sensing Imagery*),  
+  Chinese Invention Patent, Application No: CN120932067A, **Published**, 2025-11-11.
 
 ---
 
