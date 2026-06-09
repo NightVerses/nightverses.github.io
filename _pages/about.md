@@ -58,7 +58,7 @@ redirect_from:
   *Remote Sensing (RS)*, 2024. (**SCI Q1, IF=5.0**)  
   [[Paper](https://www.mdpi.com/2072-4292/16/8/1449)]
 
-  - Yang Song; Enping Yan; **Yubin Tang**; Hua Sun; Dengkui Mo.  
+- Yang Song; Enping Yan; **Yubin Tang**; Hua Sun; Dengkui Mo.  
   **“DeepSCS+C: A Physics-Regularized Network for Adaptive Topographic Correction in Mountainous Forests,”**  
   *IEEE Geoscience and Remote Sensing Letters (GRSL)*, 2026. (**SCI Q1, IF=4.4**)  
   [[Paper](https://ieeexplore.ieee.org/document/11457609)]
