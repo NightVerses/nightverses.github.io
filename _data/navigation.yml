@@ -10,10 +10,10 @@ main:
     url: "/#-publications"
 
   - title: "Services"
-    url: "/#-services"
+    url: "/#-Services"
 
   - title: "Patents"
-    url: "/#-patents"
+    url: "/#-Patents"
 
   - title: "Competitions"
-    url: "/#-selected competitions"
+    url: "/#-Selected Competitions"
