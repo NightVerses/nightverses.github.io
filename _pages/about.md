@@ -38,7 +38,7 @@ redirect_from:
 - **2024.09–Now** &nbsp;&nbsp; M.S. at [College of Forestry, Central South University of Forestry and Technology](https://zhxy.csuft.edu.cn/), supervised by Prof. [Dengkui Mo](https://zhxy.csuft.edu.cn/szdw/zzjs/slpy1/202111/t20211101_121277.html)
 - **2020.09–2024.06** &nbsp;&nbsp; B.S. at [College of Forestry, Central South University of Forestry and Technology](https://zhxy.csuft.edu.cn/)
 
----
+
 
 # 📝 Publications
 
