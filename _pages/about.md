@@ -60,13 +60,16 @@ redirect_from:
   **“DeepSCS+C: A Physics-Regularized Network for Adaptive Topographic Correction in Mountainous Forests,”**  
   *IEEE Geoscience and Remote Sensing Letters (GRSL)*, 2026. (**SCI Q1, IF=4.4**)  
   [[Paper](https://ieeexplore.ieee.org/document/11457609)]
-
+  
+---
 
 # 🎓 Services
 
 ## Reviewer
 - *Remote Sensing (RS)*
 - *IEEE Geoscience and Remote Sensing Letters (GRSL)*
+
+---
 
 # 🎖 Patents
 
