@@ -24,14 +24,14 @@ redirect_from:
 - **ORCID**: <a href="https://orcid.org/0009-0009-2819-5931" target="_blank">0009-0009-2819-5931</a>  
 
 
-
+<span class='anchor' id='research-topics'></span>
 # 🔬 Research Topics
 - **Remote Sensing Image Interpretation**:  Super-Resolution, Change Detection, Semantic Segmentation, etc.
 - **Smart Forestry**: Forest Mapping, Urban Green Space(UGS) Mapping, etc.
 
 
 
-
+<span class='anchor' id='experiences'></span>
 # 📖 Experiences
 
 ##  Education Experiences
@@ -39,7 +39,7 @@ redirect_from:
 - **2020.09–2024.06** &nbsp;&nbsp; B.S. at [College of Forestry, Central South University of Forestry and Technology](https://zhxy.csuft.edu.cn/)
 
 
-
+<span class='anchor' id='publications'></span>
 # 📝 Publications
 
 > **\*** indicates *student first author*.
@@ -62,7 +62,7 @@ redirect_from:
   [[Paper](https://ieeexplore.ieee.org/document/11457609)]
   
 
-
+<span class='anchor' id='services'></span>
 # 🎓 Services
 
 ## Reviewer
@@ -70,7 +70,7 @@ redirect_from:
 - *IEEE Geoscience and Remote Sensing Letters (GRSL)*
 
 
-
+<span class='anchor' id='patents'></span>
 # 🎖 Patents
 
 - Dengkui Mo, **Yubin Tang**, Enping Yan, Yang Song.  
@@ -86,7 +86,7 @@ redirect_from:
   Chinese Invention Patent, Application No: CN120259109A, **Published**, 2025-03-28.
 
 
-
+<span class='anchor' id='competitions'></span>
 # 🏆 Competitions
 - 2024, 第一届“吉林一号”杯卫星遥感应用青年创新创业大赛 二等奖.
 - 2023, “国丰东方慧眼杯” 遥感影像智能处理算法大赛-变化检测赛道 优胜奖.
