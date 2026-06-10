@@ -22,7 +22,6 @@ redirect_from:
 - **Google Scholar**: <a href="https://scholar.google.com.hk/citations?user=CLKy02EAAAAJ&hl" target="_blank">Profile</a>
   &nbsp;(<a href='https://scholar.google.com.hk/citations?user=CLKy02EAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)  
 - **GitHub**: <a href="https://github.com/NightVerses" target="_blank">NightVerses</a>  
-- **ResearchGate**: <a href="https://www.researchgate.net/profile/" target="_blank">Profile</a>  
 - **ORCID**: <a href="https://orcid.org/0009-0009-2819-5931" target="_blank">0009-0009-2819-5931</a>  
 
 ---
