@@ -70,9 +70,18 @@ redirect_from:
 
 # 🎖 Patents
 
-- Dengkui Mo, **Yubin Tang**, Enping Yan, et al.  
+- Dengkui Mo, **Yubin Tang**, Enping Yan, Yang Song.  
   **“基于高空间分辨率遥感数据的 DEM 智能超分方法”** (*Deep Learning-Based DEM Super-Resolution Method Using High-Spatial-Resolution Remote Sensing Imagery*),  
   Chinese Invention Patent, Application No: CN120932067A, **Published**, 2025-11-11.
+
+- Dengkui Mo; Enping Yan; Ziyi Dai; Weipeng Chang; **Yubin Tang**.  
+  **“基于深度学习的遥感影像地形校正优化方法”** (*A Deep Learning-Based Optimization Method for Topographic Correction of Remote Sensing Imagery*),  
+  Chinese Invention Patent, Application No: CN120259108A, **Published**, 2025-03-28.
+
+- Dengkui Mo; Enping Yan; Weipeng Chang; Ziyi Dai; **Yubin Tang**.  
+  **“一种顾及多时相和复杂地形影响的地形校正方法”** (*A Topographic Correction Method Considering Multi-temporal and Complex Terrain Effects*),  
+  Chinese Invention Patent, Application No: CN120259109A, **Published**, 2025-03-28.
+  
 
 ---
 
