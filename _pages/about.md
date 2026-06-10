@@ -23,14 +23,14 @@ redirect_from:
 - **GitHub**: <a href="https://github.com/NightVerses" target="_blank">NightVerses</a>  
 - **ORCID**: <a href="https://orcid.org/0009-0009-2819-5931" target="_blank">0009-0009-2819-5931</a>  
 
----
+
 
 # 🔬 Research Topics
 - **Remote Sensing Image Interpretation**:  Super-Resolution, Change Detection, Semantic Segmentation, etc.
 - **Smart Forestry**: Forest Mapping, Urban Green Space(UGS) Mapping, etc.
 
 
----
+
 
 # 📖 Experiences
 
@@ -61,7 +61,7 @@ redirect_from:
   *IEEE Geoscience and Remote Sensing Letters (GRSL)*, 2026. (**SCI Q1, IF=4.4**)  
   [[Paper](https://ieeexplore.ieee.org/document/11457609)]
   
----
+
 
 # 🎓 Services
 
@@ -69,7 +69,7 @@ redirect_from:
 - *Remote Sensing (RS)*
 - *IEEE Geoscience and Remote Sensing Letters (GRSL)*
 
----
+
 
 # 🎖 Patents
 
@@ -85,7 +85,7 @@ redirect_from:
   **“一种顾及多时相和复杂地形影响的地形校正方法”** (*A Topographic Correction Method Considering Multi-temporal and Complex Terrain Effects*),  
   Chinese Invention Patent, Application No: CN120259109A, **Published**, 2025-03-28.
 
----
+
 
 # 🏆 Competitions
 - 2024, 第一届“吉林一号”杯卫星遥感应用青年创新创业大赛 二等奖.
