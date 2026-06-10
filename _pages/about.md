@@ -84,7 +84,6 @@ redirect_from:
 - Dengkui Mo; Enping Yan; Weipeng Chang; Ziyi Dai; **Yubin Tang**.  
   **“一种顾及多时相和复杂地形影响的地形校正方法”** (*A Topographic Correction Method Considering Multi-temporal and Complex Terrain Effects*),  
   Chinese Invention Patent, Application No: CN120259109A, **Published**, 2025-03-28.
-  
 
 ---
 
