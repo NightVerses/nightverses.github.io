@@ -24,13 +24,13 @@ redirect_from:
 - **ORCID**: <a href="https://orcid.org/0009-0009-2819-5931" target="_blank">0009-0009-2819-5931</a>  
 
 
-#  Research Topics
+# 📝 Research Topics
 - **Remote Sensing Image Interpretation**:  Super-Resolution, Change Detection, Semantic Segmentation, etc.
 - **Smart Forestry**: Forest Mapping, Urban Green Space(UGS) Mapping, etc.
 
 
 
-#  Experiences
+# 📖 Experiences
 
 ##  Education Experiences
 - **2024.09–Now** &nbsp;&nbsp; M.S. at [College of Forestry, Central South University of Forestry and Technology](https://zhxy.csuft.edu.cn/), supervised by Prof. [Dengkui Mo](https://zhxy.csuft.edu.cn/szdw/zzjs/slpy1/202111/t20211101_121277.html)
@@ -60,14 +60,14 @@ redirect_from:
   
 
 <span class='anchor' id='services'></span>
-#  Services
+# 🎓 Services
 
 ## Reviewer
 - *Remote Sensing (RS)*
 - *IEEE Geoscience and Remote Sensing Letters (GRSL)*
 
 
-#  Patents
+# 🔥 Patents
 
 - Dengkui Mo, **Yubin Tang**, Enping Yan, Yang Song.  
   **“基于高空间分辨率遥感数据的 DEM 智能超分方法”** (*Deep Learning-Based DEM Super-Resolution Method Using High-Spatial-Resolution Remote Sensing Imagery*),  
@@ -82,7 +82,7 @@ redirect_from:
   Chinese Invention Patent, Application No: CN120259109A, **Published**, 2025-03-28.
 
 
-#  Competitions
+# 🎖 Competitions
 - 2024, 第一届“吉林一号”杯卫星遥感应用青年创新创业大赛 二等奖.
 - 2023, “国丰东方慧眼杯” 遥感影像智能处理算法大赛-变化检测赛道 优胜奖.
 - 2023, “泰坦杯”全国大学生空间信息应用大赛-人工智能提取林地变化 二等奖(精度、效率分排名第一).
